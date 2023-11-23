@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a full-stack developer, I am passionate about creating innovativeand efficient web applications. <br>With expertise in both front-end and <br>back-end technologies, I strive to <br>deliver seamless user experiences<br>and robust functionalities. I enjoy<br> tackling complex challenges and <br>finding elegant solutions to enhance<br>overall performance. Collaborating <br>with diverse teams and <br>staying up-to-date with emerging <br>technologies are essential elements <br>of my professional journey. <br>Let's connect and build something<br>amazing together!
+As a full-stack developer, I am passionate about creating innovativeand efficient web applications.With  expertise in both front-end and back-end technologies, I strive to deliver seamless user experiences and robust functionalities. I enjoy tackling complex challenges and finding elegant solutions to enhance<br>overall performance. Collaborating with diverse teams and staying up-to-date with emerging technologies are essential elements of my professional journey. Let's connect and build something amazing together!
 
 
 ## 🌐 Socials:
